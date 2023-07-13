@@ -1,0 +1,10 @@
+mallorca,https://www.tib.org/documents/20124/449554/MapaWeb_VJuliol2023.pdf,73f087042f87095ec43f405cc160d1fa79ef40a4c3fc1c1ea3484698a27438b7
+menorca_bus,https://menorca.tib.org/documents/30688/87944/230420-MAPA_SIMBOLIC.pdf,be7167d36243b6357424a6e666e13389cbb0d7082ff1a5fd7a91f6ac7865c32e
+eivissa_bus,https://eivissa.tib.org/documents/30693/92869/mapa_ibiza_20190607.pdf
+eivissa_city_bus,https://eivissa.tib.org/documents/30693/92869/mapa_ciudad_ibiza_20190607.pdf
+palma_bus,https://www.emtpalma.cat/documents/20233/197733/Planol+General+EMTPalma+20230515.pdf,5f0e6120773fe833804d52388f269ec1e547389633d21be1e925a16a86a19833
+
+barcelona_metro,https://www.tmb.cat/documents/20182/96078/Pl%C3%A0nol+xarxa+de+Metro,20c54fb6b1bf7dd1c8e7b4ec1a0d2ecc4528633f54d058a272308c308a9641ff
+barcelona_rail,https://rodalies.gencat.cat/web/.content/00_home/04_mapes/mapa_rodalia_barcelona_ATM.pdf
+barcelona_bus,https://www.tmb.cat/documents/20182/96078/Pl%C3%A0nol+xarxa+bus.pdf
+barcelona_new_bus,https://www.tmb.cat/documents/20182/96078/Pl%C3%A0nol+Nova+Xarxa+de+Bus+pdf
