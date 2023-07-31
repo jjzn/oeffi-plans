@@ -8,7 +8,7 @@ extract() {
     local url="${2:-}"
 
     curl "$url" -so "$name.pdf"
-    pdftoppm "$name.pdf" "$name.tmp" -png -r 100 -f 1 -singlefile
+    pdftoppm "$name.pdf" "$name.tmp" -png -r 150 -f 1 -singlefile
     mkdir -p plans
     convert "$name.tmp.png" "PNG8:plans/$name.png"
 
