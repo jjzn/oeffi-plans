@@ -2,9 +2,9 @@ name: Deploy network plans to Pages
 
 on:
   push:
-    branches: ["main"]
+    branches: [ "main" ]
   pull_request:
-    branches: ["main"]
+    branches: [ "main" ]
 
   workflow_dispatch:
 
@@ -33,7 +33,7 @@ jobs:
           cat <<EOF
           <html>
           <body><pre>
-          `for i in $(ls plans); do echo "<a href='$i'>$i</a>"; done`
+          `for i in $(ls plans); do echo "<a href='$i'>$i</a> ($(du -h plans/$i | cut -f1))"; done`
           </pre></body>
           EOF
         
