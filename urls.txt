@@ -1,10 +1,13 @@
 mallorca,https://www.tib.org/documents/20124/449554/MapaWeb_VJuliol2023.pdf,73f087042f87095ec43f405cc160d1fa79ef40a4c3fc1c1ea3484698a27438b7
 menorca_bus,https://menorca.tib.org/documents/30688/87944/230420-MAPA_SIMBOLIC.pdf,be7167d36243b6357424a6e666e13389cbb0d7082ff1a5fd7a91f6ac7865c32e
-eivissa_bus,https://eivissa.tib.org/documents/30693/92869/mapa_ibiza_20190607.pdf
-eivissa_city_bus,https://eivissa.tib.org/documents/30693/92869/mapa_ciudad_ibiza_20190607.pdf
 palma_bus,https://www.emtpalma.cat/documents/20233/197733/Planol+General+EMTPalma+20230515.pdf,5f0e6120773fe833804d52388f269ec1e547389633d21be1e925a16a86a19833
 
 barcelona_metro,https://www.tmb.cat/documents/20182/96078/Pl%C3%A0nol+xarxa+de+Metro,20c54fb6b1bf7dd1c8e7b4ec1a0d2ecc4528633f54d058a272308c308a9641ff
-barcelona_rail,https://rodalies.gencat.cat/web/.content/00_home/04_mapes/mapa_rodalia_barcelona_ATM.pdf
-barcelona_bus,https://www.tmb.cat/documents/20182/96078/Pl%C3%A0nol+xarxa+bus.pdf
-barcelona_new_bus,https://www.tmb.cat/documents/20182/96078/Pl%C3%A0nol+Nova+Xarxa+de+Bus+pdf
+barcelona_rail,https://rodalies.gencat.cat/web/.content/00_home/04_mapes/mapa_rodalia_barcelona_ATM.pdf,974554068f583e57f71d433044fd6db1a9cde4874ef4304f7a933f9c785dfd8d
+barcelona_bus,https://www.tmb.cat/documents/20182/96078/Pl%C3%A0nol+xarxa+bus.pdf,e0013a960a9c206f33d8ba4e0114426025489d881c12ca7ee0f92e3884bc28a1
+barcelona_new_bus,https://www.tmb.cat/documents/20182/96078/Pl%C3%A0nol+Nova+Xarxa+de+Bus+pdf,e51926f1ec3231f1562574f705cbc084d0aab60454bdc86644e965046ef8f31a
+
+valencia_metro,https://www.metrovalencia.es/wp-content/uploads/2022/06/PlanoEntornoUrbano_Metrovalencia_2022.pdf,9cb585719011ab88dd1e2d59f02e1bdc743345cab4f3cf4c277380fcbaea4c8f
+
+zaragoza_bus,https://zaragoza.avanzagrupo.com/wp-content/uploads/2023/04/marquesina-diurna-web_abril-2023.pdf,491ec013e522fc5ef0e51e544720cd6b03f7f5c7f876c08d1e6eb4a36e1dc381
+zaragoza_bus_night,https://zaragoza.avanzagrupo.com/wp-content/uploads/2019/11/Plano_marquesina-nocturna_abril2019.pdf,0878b9ab73f8b80f3f8e9cc6a9076b0628fc70a2e74ac1c3973fcce38fd0d98c
