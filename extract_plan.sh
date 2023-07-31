@@ -22,11 +22,24 @@ extract() {
     rm "$name.pdf" "$name.tmp.png" 2> /dev/null
 }
 
+extract_all() {
+    for line in `cat urls.txt`; do
+        test -n "$line" || continue
+
+        name="$(echo $line | cut -d, -f1)"
+        url="$(echo $line | cut -d, -f2)"
+
+        echo
+        echo "Extracting $name..."
+        extract "$name" "$url"
+    done
+}
+
 if [ "$#" -eq 2 ]; then
     extract "$@"
 elif [ "$#" -eq 1 ]; then
     extract "$1" "$(grep -F $1, urls.txt | cut -d, -f2)"
 else
-    echo "incorrect number of arguments (expected 1-2, received $#)"
-    exit 1
+    read -p 'Extract all plans? [Y/n] ' ans
+    test "$ans" = 'n' || extract_all
 fi
