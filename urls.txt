@@ -2,7 +2,7 @@ mallorca,https://www.tib.org/documents/20124/449554/MapaWeb_VJuliol2023.pdf,73f0
 menorca_bus,https://menorca.tib.org/documents/30688/87944/230420-MAPA_SIMBOLIC.pdf,be7167d36243b6357424a6e666e13389cbb0d7082ff1a5fd7a91f6ac7865c32e
 palma_bus,https://www.emtpalma.cat/documents/20233/197733/Planol+General+EMTPalma+20230515.pdf,5f0e6120773fe833804d52388f269ec1e547389633d21be1e925a16a86a19833
 
-barcelona_metro,https://www.tmb.cat/documents/20182/96078/Pl%C3%A0nol+xarxa+de+Metro,20c54fb6b1bf7dd1c8e7b4ec1a0d2ecc4528633f54d058a272308c308a9641ff
+barcelona_metro,https://www.tmb.cat/documents/20182/96078/Pl%C3%A0nol+xarxa+de+Metro,cf0f0efbbe451afd4cb5d3b7f24d1b3be0edd834228721c63f4d88a52aa915f0
 barcelona_rail,https://rodalies.gencat.cat/web/.content/00_home/04_mapes/mapa_rodalia_barcelona_ATM.pdf,974554068f583e57f71d433044fd6db1a9cde4874ef4304f7a933f9c785dfd8d
 barcelona_bus,https://www.tmb.cat/documents/20182/96078/Pl%C3%A0nol+xarxa+bus.pdf,e0013a960a9c206f33d8ba4e0114426025489d881c12ca7ee0f92e3884bc28a1
 barcelona_new_bus,https://www.tmb.cat/documents/20182/96078/Pl%C3%A0nol+Nova+Xarxa+de+Bus+pdf,e51926f1ec3231f1562574f705cbc084d0aab60454bdc86644e965046ef8f31a
