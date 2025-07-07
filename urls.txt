@@ -1,13 +1,13 @@
-mallorca,https://www.tib.org/documents/20124/449554/MapaWeb_VJuliol2023.pdf,73f087042f87095ec43f405cc160d1fa79ef40a4c3fc1c1ea3484698a27438b7
+mallorca,https://www.tib.org/documents/20124/449554/MapaTemporadaAlta2025.pdf,f1a4f107ff024bab6ed7b69224e31a1c3e8500a8efe27966c0f0ce4d05cb2656
 menorca_bus,https://menorca.tib.org/documents/30688/87944/230420-MAPA_SIMBOLIC.pdf,be7167d36243b6357424a6e666e13389cbb0d7082ff1a5fd7a91f6ac7865c32e
-palma_bus,https://www.emtpalma.cat/documents/20233/197733/Planol+General+EMTPalma+20230515.pdf,5f0e6120773fe833804d52388f269ec1e547389633d21be1e925a16a86a19833
+palma_bus,https://drive.usercontent.google.com/download?id=1EykcijXZ8lhLfmO3HMopqVPpeNuSVzl8,a396541643a14f4c6dfccf1155aac4674471cfba885453077153ea0f68ba7dc3
 
-barcelona_metro,https://www.tmb.cat/documents/20182/45206/Pl%C3%A0nol+xarxa+de+Metro.pdf,df7a83a034c5ff77458460f8ad2720febd9f4deceb6c615e04cf39fe1529cff3
-barcelona_rail,https://rodalies.gencat.cat/web/.content/00_home/04_mapes/mapa_rodalia_barcelona_ATM.pdf,974554068f583e57f71d433044fd6db1a9cde4874ef4304f7a933f9c785dfd8d
+barcelona_metro,https://www.tmb.cat/documents/20182/45206/Pl%C3%A0nol+xarxa+de+Metro.pdf,d07c89ba1d9def1f79eccc8faf0e3dbd74d56b46066fce0f6cea58c81d5dff45
+barcelona_rail,https://rodalies.gencat.cat/web/.content/00_home/04_mapes/mapa_rodalia_barcelona_ATM.pdf,23de80863c71a21773c025826257c6dbdd7ef421c16397cde776df2def27547b
 barcelona_bus,https://www.tmb.cat/documents/20182/45206/Pl%C3%A0nol+xarxa+bus.pdf,050722dc782cc03a8e0674d14c3b053f686c570f00e2d5861463879c4af618fd
 barcelona_new_bus,https://www.tmb.cat/documents/20182/45206/Pl%C3%A0nol+Nova+Xarxa+de+Bus+pdf.pdf,e51926f1ec3231f1562574f705cbc084d0aab60454bdc86644e965046ef8f31a
 
-valencia_metro,https://www.metrovalencia.es/wp-content/uploads/2022/06/PlanoEntornoUrbano_Metrovalencia_2022.pdf,9cb585719011ab88dd1e2d59f02e1bdc743345cab4f3cf4c277380fcbaea4c8f
+valencia_metro,https://www.metrovalencia.es/wp-content/uploads/2025/06/Plano-zonal-tarifario-Metrovalencia_.pdf,6a7a4745340394bdbbe255ff5290db82eabe4411f2a1631bedd1d9df695f36de
 
 zaragoza_bus,https://zaragoza.avanzagrupo.com/wp-content/uploads/2023/04/marquesina-diurna-web_abril-2023.pdf,491ec013e522fc5ef0e51e544720cd6b03f7f5c7f876c08d1e6eb4a36e1dc381
-zaragoza_bus_night,https://zaragoza.avanzagrupo.com/wp-content/uploads/2019/11/Plano_marquesina-nocturna_abril2019.pdf,0878b9ab73f8b80f3f8e9cc6a9076b0628fc70a2e74ac1c3973fcce38fd0d98c
+zaragoza_bus_night,https://zaragoza.avanzagrupo.com/wp-content/uploads/2020/04/Plano_marquesina-nocturna_abril2019.pdf,8e66b50b309a8a0fc0040cf21a677b29755d3081401964461507ddb4d58c2770
