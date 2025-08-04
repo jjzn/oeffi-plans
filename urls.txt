@@ -3,11 +3,11 @@ menorca_bus,https://menorca.tib.org/documents/30688/87944/230420-MAPA_SIMBOLIC.p
 palma_bus,https://drive.usercontent.google.com/download?id=1EykcijXZ8lhLfmO3HMopqVPpeNuSVzl8,a396541643a14f4c6dfccf1155aac4674471cfba885453077153ea0f68ba7dc3
 
 barcelona_metro,https://www.tmb.cat/documents/20182/45206/Pl%C3%A0nol+xarxa+de+Metro.pdf,d07c89ba1d9def1f79eccc8faf0e3dbd74d56b46066fce0f6cea58c81d5dff45
-barcelona_rail,https://rodalies.gencat.cat/web/.content/00_home/04_mapes/mapa_rodalia_barcelona_ATM.pdf,23de80863c71a21773c025826257c6dbdd7ef421c16397cde776df2def27547b
+barcelona_rail,https://rodalies.gencat.cat/web/.content/00_home/04_mapes/mapa_rodalia_barcelona_ATM.pdf,c4d4e2ab6a023b7ff8f7ae9c8ac83d68503ccfa66bc54797da91581ce6037bbf
 barcelona_bus,https://www.tmb.cat/documents/20182/45206/Pl%C3%A0nol+xarxa+bus.pdf,050722dc782cc03a8e0674d14c3b053f686c570f00e2d5861463879c4af618fd
 barcelona_new_bus,https://www.tmb.cat/documents/20182/45206/Pl%C3%A0nol+Nova+Xarxa+de+Bus+pdf.pdf,e51926f1ec3231f1562574f705cbc084d0aab60454bdc86644e965046ef8f31a
 
 valencia_metro,https://www.metrovalencia.es/wp-content/uploads/2025/06/Plano-zonal-tarifario-Metrovalencia_.pdf,6a7a4745340394bdbbe255ff5290db82eabe4411f2a1631bedd1d9df695f36de
 
-zaragoza_bus,https://zaragoza.avanzagrupo.com/wp-content/uploads/2023/04/marquesina-diurna-web_abril-2023.pdf,491ec013e522fc5ef0e51e544720cd6b03f7f5c7f876c08d1e6eb4a36e1dc381
+zaragoza_bus,https://zaragoza.avanzagrupo.com/wp-content/uploads/2023/04/marquesina-diurna-web_abril-2023.pdf,325a9c96ed21a79f9721c824b2cd4a5dbd98298ce097103b8f45f53dbf491441
 zaragoza_bus_night,https://zaragoza.avanzagrupo.com/wp-content/uploads/2020/04/Plano_marquesina-nocturna_abril2019.pdf,8e66b50b309a8a0fc0040cf21a677b29755d3081401964461507ddb4d58c2770
