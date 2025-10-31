@@ -10,4 +10,4 @@ barcelona_new_bus,https://www.tmb.cat/documents/20182/45206/Pl%C3%A0nol+Nova+Xar
 valencia_metro,https://www.metrovalencia.es/wp-content/uploads/2025/06/Plano-zonal-tarifario-Metrovalencia_.pdf,6a7a4745340394bdbbe255ff5290db82eabe4411f2a1631bedd1d9df695f36de
 
 zaragoza_bus,https://zaragoza.avanzagrupo.com/wp-content/uploads/2023/04/marquesina-diurna-web_abril-2023.pdf,325a9c96ed21a79f9721c824b2cd4a5dbd98298ce097103b8f45f53dbf491441
-zaragoza_bus_night,https://zaragoza.avanzagrupo.com/wp-content/uploads/2020/04/Plano_marquesina-nocturna_abril2019.pdf,8e66b50b309a8a0fc0040cf21a677b29755d3081401964461507ddb4d58c2770
+zaragoza_bus_night,https://zaragoza.avanzagrupo.com/wp-content/uploads/2020/04/Plano_marquesina-nocturna_abril2019.pdf,dc75d0a28c29259d89e763915239891397cfd81cc039549f709643c0ad5a8d23
