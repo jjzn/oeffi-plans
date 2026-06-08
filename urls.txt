@@ -1,6 +1,6 @@
 mallorca,https://www.tib.org/documents/20124/449554/MapaTemporadaAlta2025.pdf,f1a4f107ff024bab6ed7b69224e31a1c3e8500a8efe27966c0f0ce4d05cb2656
 menorca_bus,https://mou-tmenorca.com/Documents/Documents/8552doc13.pdf,d91c99aa2648a1d91c22c8b82cac38759ac7b8c8e3751a1c3d5fa632499b0794
-palma_bus,https://drive.usercontent.google.com/download?id=1EykcijXZ8lhLfmO3HMopqVPpeNuSVzl8,a396541643a14f4c6dfccf1155aac4674471cfba885453077153ea0f68ba7dc3
+palma_bus,https://nova.emtpalma.cat/maas/api/v1/web/downloadFile?fileId=137,4b286f77d04a09484562f406d09052f006c929cc0743948c81e201c54c2f47c2
 
 barcelona_metro,https://www.tmb.cat/documents/20182/45206/Pl%C3%A0nol+xarxa+de+Metro.pdf,d07c89ba1d9def1f79eccc8faf0e3dbd74d56b46066fce0f6cea58c81d5dff45
 barcelona_rail,https://rodalies.gencat.cat/web/.content/00_home/04_mapes/mapa_rodalia_barcelona_ATM.pdf,c4d4e2ab6a023b7ff8f7ae9c8ac83d68503ccfa66bc54797da91581ce6037bbf
